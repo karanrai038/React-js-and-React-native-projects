@@ -1,0 +1,146 @@
+{
+  "customers": [
+    {
+      "name": "Rajan Yadav",
+      "age": "21",
+      "password": "1234",
+      "adhar": "123456789012",
+      "balance": 7550,
+      "accountNumber": "123456789012",
+      "transaction": [
+        {
+          "id": 1,
+          "type": "withdraw",
+          "amount": "1000",
+          "date": "17/03/2023, 11:02:49"
+        },
+        {
+          "id": 2,
+          "type": "deposit",
+          "amount": "50",
+          "date": "17/03/2023, 11:02:56"
+        },
+        {
+          "id": 3,
+          "type": "deposit",
+          "amount": "1000",
+          "date": "17/03/2023, 12:25:14"
+        },
+        {
+          "id": 4,
+          "type": "deposit",
+          "amount": "500",
+          "date": "17/03/2023, 12:25:22"
+        },
+        {
+          "id": 5,
+          "type": "withdraw",
+          "amount": "100",
+          "date": "17/03/2023, 12:25:28"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "test test",
+      "accountNumber": 695519520,
+      "password": "434434",
+      "age": "21",
+      "adhar": "21212121211",
+      "transaction": [],
+      "balance": 500,
+      "id": 2
+    },
+    {
+      "name": "test test",
+      "accountNumber": 124582018,
+      "password": "323232",
+      "age": "332",
+      "adhar": "21313",
+      "transaction": [
+        {
+          "id": 1,
+          "type": "deposit",
+          "amount": "10000",
+          "date": "17/03/2023, 12:26:39"
+        },
+        {
+          "id": 2,
+          "type": "deposit",
+          "amount": "0100",
+          "date": "17/03/2023, 12:26:44"
+        },
+        {
+          "id": 3,
+          "type": "withdraw",
+          "amount": "800",
+          "date": "17/03/2023, 12:27:03"
+        }
+      ],
+      "balance": 9800,
+      "id": 3
+    },
+    {
+      "name": "preeti Maam",
+      "accountNumber": 808277965,
+      "password": "121121212",
+      "age": "21",
+      "adhar": "2121212121212",
+      "transaction": [],
+      "balance": 500,
+      "id": 4
+    },
+    {
+      "name": "Karan  Rai",
+      "accountNumber": 407191762,
+      "password": "123",
+      "age": "22",
+      "adhar": "1234567890",
+      "transaction": [
+        {
+          "id": 1,
+          "type": "deposit",
+          "amount": "05000",
+          "date": "3/17/2023, 1:05:40 PM"
+        },
+        {
+          "id": 2,
+          "type": "withdraw",
+          "amount": "1000",
+          "date": "3/17/2023, 1:05:49 PM"
+        }
+      ],
+      "balance": 4500,
+      "id": 5
+    },
+    {
+      "name": "Kunal rai",
+      "accountNumber": 446716275,
+      "password": "123",
+      "age": "22",
+      "adhar": "123332",
+      "transaction": [
+        {
+          "id": 1,
+          "type": "deposit",
+          "amount": "0121211",
+          "date": "3/17/2023, 2:02:11 PM"
+        },
+        {
+          "id": 2,
+          "type": "withdraw",
+          "amount": "012111",
+          "date": "3/17/2023, 2:02:14 PM"
+        },
+        {
+          "id": 3,
+          "type": "withdraw",
+          "amount": "109600",
+          "date": "3/17/2023, 2:02:33 PM"
+        }
+      ],
+      "balance": 0,
+      "id": 6
+    }
+  ]
+}
